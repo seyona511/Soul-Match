@@ -1,1 +1,0 @@
-<!-- Conteúdo do arquivo script.js -->
