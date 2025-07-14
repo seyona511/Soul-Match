@@ -1,1 +1,0 @@
-// JS para feed, curtir, comentar, etc.
