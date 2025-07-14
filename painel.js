@@ -1,0 +1,1 @@
+<!-- Conteúdo do arquivo painel.js -->
